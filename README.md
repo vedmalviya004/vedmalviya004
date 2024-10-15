@@ -8,7 +8,7 @@
 
 - 🔭 &nbsp; I’m currently learning Java Advance <br>
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.<br>
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.<br>
+- 🎓 &nbsp; Studied Computer Science, computer programming and Mathematics.<br>
 - 💼 &nbsp; Java developer and front-end developer.<br>
 - 🤩 &nbsp; Watching movies and listening songs.<br>
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.<br> 
