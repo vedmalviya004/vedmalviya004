@@ -12,7 +12,7 @@
 - 💼 &nbsp; Java developer and front-end developer.<br>
 - 🤩 &nbsp; Watching movies and listening songs.<br>
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.<br> 
-- 📄 &nbsp; Know about CV <a href="https://drive.google.com/file/d/1cGRzQhqnDJsvCNDBpMKZ_A_f-iVGEZnn/view?usp=sharing" style="text-decoration: none; color: #000;"><b>Click Here</b></a>
+- 📄 &nbsp; Know about CV <a href="https://drive.google.com/file/d/14t_CNvw5pzLswBfmPfB8H5GoTMqA6YKe/view?usp=sharing" style="text-decoration: none; color: #000;"><b>Click Here</b></a>
 
 <br>
  <img  align="right" src="gif33.gif" alt="coding" width="450" height="300">
