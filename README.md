@@ -9,7 +9,7 @@
 - 🔭 &nbsp; I’m currently learning Java Advance <br>
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.<br>
 - 🎓 &nbsp; Studied Computer Science, computer programming and Mathematics.<br>
-- 💼 &nbsp; Java developer and front-end developer.<br>
+- 💼 &nbsp; Backend developer.<br>
 - 🤩 &nbsp; Watching movies and listening songs.<br>
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.<br> 
 - 📄 &nbsp; Know about CV <a href="https://drive.google.com/file/d/14t_CNvw5pzLswBfmPfB8H5GoTMqA6YKe/view?usp=sharing" style="text-decoration: none; color: #000;"><b>Click Here</b></a>
