@@ -2,11 +2,9 @@
   
    
    <h2> Hey there! I'm vedant. </h2>
-   <p>- 🌱 I’m currently learning **Advance Java**</p>
    <br>
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Java Advance <br>
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.<br>
 - 🎓 &nbsp; Studied Computer Science, computer programming and Mathematics.<br>
 - 💼 &nbsp; Backend developer.<br>
